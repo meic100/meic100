@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mei </h1>
+<h1>Mei Chan</h1>
 <h2>Data Analyst</h2>
 <h2>👨‍💻 Projects:</h2>
 
