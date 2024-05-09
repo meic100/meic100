@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Power BI</b>
-  - [Pizza sales](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Pizza sales](https://github.com/meic100/PBI_PizzaSales)
 
 <!--
 - <b>Python</b>
