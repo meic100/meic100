@@ -1,3 +1,5 @@
+<html>
+<body>
 <h1>Mei Chan</h1>
 <h2>Data Analyst</h2>
 <h2>👨‍💻 Projects:</h2>
@@ -38,3 +40,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</body>
+</html>
