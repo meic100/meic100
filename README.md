@@ -8,10 +8,12 @@
   - [Pizza sales](https://github.com/meic100/PBI_PizzaSales)
 
 <br>
-<p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" rel="nofollow"><img src="https://camo.githubusercontent.com/7462d2cada477d8c0a65563d79c2080008df7669aa6c820ec6c3168dd6267591/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f406a626f6c6c613336382f30" alt="Recent Article 0" data-canonical-src="https://app.powerbi.com/view?r=eyJrIjoiNTA4MjAyYmMtMDIxMy00MTI0LWI1MDgtYzM3MWQxMmEzOTUwIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9&pageName=ReportSection" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" rel="nofollow"><img src="https://camo.githubusercontent.com/7462d2cada477d8c0a65563d79c2080008df7669aa6c820ec6c3168dd6267591/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f406a626f6c6c613336382f30" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" style="max-width: 100%;"></a>
+</p>
 <br>
 
-<p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" rel="nofollow"><img src="https://camo.githubusercontent.com/7462d2cada477d8c0a65563d79c2080008df7669aa6c820ec6c3168dd6267591/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f406a626f6c6c613336382f30" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNTA4MjAyYmMtMDIxMy00MTI0LWI1MDgtYzM3MWQxMmEzOTUwIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9&pageName=ReportSection" rel="nofollow"><img src="https://camo.githubusercontent.com/7462d2cada477d8c0a65563d79c2080008df7669aa6c820ec6c3168dd6267591/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f406a626f6c6c613336382f30" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" style="max-width: 100%;"></a>
+</p>
 <br>
 
 <!-- Power BI dashboard -->
