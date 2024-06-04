@@ -23,8 +23,7 @@
 <br>
 
 <!-- .pdf file of Power BI dashboard -->
-<h2> PDF of Power BI report </h2>
-https://github.com/meic100/PBI_PizzaSales/blob/main/Mk2%20-%20Domino's%20Pizza%20sales.pdf
+[PDF of Power BI report](https://github.com/meic100/PBI_PizzaSales/blob/main/Mk2%20-%20Domino's%20Pizza%20sales.pdf)
 
 <br>
 <br>
