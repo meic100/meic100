@@ -29,7 +29,6 @@
 <br>
 
 <!-- .pbix file of Power BI dashboard -->
-<h2> .pbix of the dashboard </h2>
 [.pbix file of dashboard ](https://github.com/meic100/meic100/blob/main/Mk13-%20Publish%20-%20Domino's%20Pizza%20sales.pbix)
   
 <!--
