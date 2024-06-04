@@ -21,6 +21,9 @@
 <p dir="auto"><img src="https://github.com/meic100/meic100/assets/169346776/36263867-3555-4f0e-999f-58be34773247" style="max-width: 25%;">
 </p>
 <br>
+
+<!-- .pbix file of Power BI dashboard -->
+[Download .pbix file of dashboard ](https://github.com/meic100/PBI_PizzaSales)
   
 <!--
 - <b>Python</b>
