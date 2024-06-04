@@ -16,7 +16,7 @@
 <br>
 
 <!-- DAX used in Power BI dashboard -->
-<p dir="auto"><a <img src="https://github.com/meic100/meic100/assets/169346776/3cc876b2-84b5-4b8b-bb63-98715b8959fd" style="max-width: 100%;"></a>
+<p dir="auto"><img src="https://github.com/meic100/meic100/assets/169346776/3cc876b2-84b5-4b8b-bb63-98715b8959fd" style="max-width: 100%;">
 </p>
 <br>
   
