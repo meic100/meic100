@@ -23,7 +23,7 @@
 <br>
 
 <!-- .pbix file of Power BI dashboard -->
-[Download .pbix file of dashboard ](https://github.com/meic100/meic100/blob/main/Mk13-%20Publish%20-%20Domino's%20Pizza%20sales.pbix))
+[.pbix file of dashboard ](https://github.com/meic100/meic100/blob/main/Mk13-%20Publish%20-%20Domino's%20Pizza%20sales.pbix))
   
 <!--
 - <b>Python</b>
