@@ -12,7 +12,7 @@
 </p>
 <br>
 
-<p dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNTA4MjAyYmMtMDIxMy00MTI0LWI1MDgtYzM3MWQxMmEzOTUwIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9&pageName=ReportSection" rel="nofollow"><img src="C:\Users\user\PORTFOLIO\Domino's Pizza\Mk13- Publish - Domino's Pizza sales.jpg" alt="Recent Article 0" data-canonical-src="https://app.powerbi.com/view?r=eyJrIjoiNTA4MjAyYmMtMDIxMy00MTI0LWI1MDgtYzM3MWQxMmEzOTUwIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9&pageName=ReportSection" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNTA4MjAyYmMtMDIxMy00MTI0LWI1MDgtYzM3MWQxMmEzOTUwIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9&pageName=ReportSection" rel="nofollow"><img src="C:/Users/user/PORTFOLIO\/Domino's Pizza/Mk13- Publish - Domino's Pizza sales.jpg" alt="Recent Article 0" data-canonical-src="https://app.powerbi.com/view?r=eyJrIjoiNTA4MjAyYmMtMDIxMy00MTI0LWI1MDgtYzM3MWQxMmEzOTUwIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9&pageName=ReportSection" style="max-width: 100%;"></a>
 </p>
 <br>
 
