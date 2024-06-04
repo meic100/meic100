@@ -19,7 +19,7 @@
             <div class="col-lg-12 d-none d-lg-block">
                 <div data-bs-toggle="modal" data-bs-target="#interactModal" class="w-100 report-container">
                     <img src="https://zoomchartswebstorage.blob.core.windows.net/template-gallery/20240530-161753-power-bi-customer-review-analysis-report-od-contest.png" class="index-report-img" alt="Report">
-                    <button target="_blank" class="report-btn btn btn-outline-dark">Interact</button>
+                    <button target="_blank" class="btn-outline-dark">Interact</button>
                 </div>
             </div>
             <div class="col-lg-12 d-lg-none">
