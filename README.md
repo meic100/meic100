@@ -26,15 +26,9 @@
 [PDF of Power BI report](https://github.com/meic100/PBI_PizzaSales/blob/main/Mk2%20-%20Domino's%20Pizza%20sales.pdf)
 
 <br>
-<br>
 
 <!-- .pbix file of Power BI dashboard -->
 [.pbix file of dashboard ](https://github.com/meic100/meic100/blob/main/Mk13-%20Publish%20-%20Domino's%20Pizza%20sales.pbix)
-  
-<!--
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
--->
 
 <h2> 🤳 Connect with me:</h2>
 
