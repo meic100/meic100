@@ -22,6 +22,12 @@
 </p>
 <br>
 
+<!-- .pdf file of Power BI dashboard -->
+<h2>PDF of Power BI report:</h2>
+https://github.com/meic100/PBI_PizzaSales/blob/main/Mk2%20-%20Domino's%20Pizza%20sales.pdf
+
+<br>
+
 <!-- .pbix file of Power BI dashboard -->
 [.pbix file of dashboard ](https://github.com/meic100/meic100/blob/main/Mk13-%20Publish%20-%20Domino's%20Pizza%20sales.pbix)
   
