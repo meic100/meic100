@@ -23,6 +23,9 @@
 <br>
 
 <!-- .pdf file of Power BI dashboard -->
+[PDF of Power BI report](https://github.com/meic100/meic100/blob/ce91fa1f7e60a6713bf2d137a52792d9de5e7170/Mk13-%20Publish%20-%20Domino's%20Pizza%20sales.pdf)
+
+<!-- .pdf file of Power BI dashboard -->
 [PDF of Power BI report](https://github.com/meic100/PBI_PizzaSales/blob/main/Mk2%20-%20Domino's%20Pizza%20sales.pdf)
 
 <br>
