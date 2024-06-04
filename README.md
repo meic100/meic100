@@ -2,10 +2,7 @@
 <body>
 <h1>Mei Chan</h1>
 <h2>Data Analyst</h2>
-<h2>👨‍💻 Projects:</h2>
-
-- <b>Power BI dashboards for Domino's Pizza </b>
-  - [Pizza sales](https://github.com/meic100/PBI_PizzaSales)
+<!-- <h2>👨‍💻 Projects:</h2> -->
 
 <br>
 
