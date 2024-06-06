@@ -3,7 +3,7 @@
 <!-- <h2>👨‍💻 Projects:</h2> -->
   
 <!-- Power BI dashboard -->
-<h2> Power BI dashboard of Domino's Pizza sales </h2>
+<h3> Power BI dashboard of Domino's Pizza sales </h3>
 
 (simulated <span class="large-text">data</span> from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)
 
