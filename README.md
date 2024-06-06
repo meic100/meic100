@@ -5,7 +5,7 @@
 <span style="font-size:20px;"
   
 <!-- Power BI dashboard -->
-<h2> Power BI dashboard of Domino's Pizza sales <span style="font-size:20px;"> (simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)</span> </h2>
+<h2> Power BI dashboard of Domino's Pizza sales <span style="font-size:10px;"> (simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)</span> </h2>
 
 <h5> (simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>) </h5>
 
