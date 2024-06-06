@@ -1,5 +1,3 @@
-<html>
-<body>
 <h1>Mei Chan</h1>
 <h2>Data Analyst</h2>
 <!-- <h2>👨‍💻 Projects:</h2> -->
@@ -34,6 +32,7 @@
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
+UIcons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
 
 <!--
 ### Hi there 👋
@@ -52,6 +51,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</body>
-</html>
