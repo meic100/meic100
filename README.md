@@ -3,9 +3,9 @@
 <!-- <h2>👨‍💻 Projects:</h2> -->
   
 <!-- Power BI dashboard -->
-<h2> Power BI dashboard of Domino's Pizza sales <span style="font-size:10 px;"> (simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)</span> </h2>
+<h2> Power BI dashboard of Domino's Pizza sales <span style="font-size:10px;"> (simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)</span> </h2>
 
-<h5> (simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>) </h5>
+(simulated <span style="font-size:10px;">data</span> from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)
 
 <p dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNTA4MjAyYmMtMDIxMy00MTI0LWI1MDgtYzM3MWQxMmEzOTUwIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9&pageName=ReportSection" rel="nofollow"><img src="https://github.com/meic100/meic100/assets/169346776/3cc876b2-84b5-4b8b-bb63-98715b8959fd" alt="Recent Article 0" data-canonical-src="https://app.powerbi.com/view?r=eyJrIjoiNTA4MjAyYmMtMDIxMy00MTI0LWI1MDgtYzM3MWQxMmEzOTUwIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9&pageName=ReportSection" style="max-width: 100%;"></a>
 </p>
