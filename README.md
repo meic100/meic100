@@ -7,7 +7,7 @@
 </ul>
 </li>
 </ul>
-<p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/03d25788-1545-4077-912a-38eeb53a1352" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/f9dbb820-fb88-4255-8180-1b0728c44c64" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
 <p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" rel="nofollow"><img src="https://camo.githubusercontent.com/11e9a4e13ba4d4cf0fe8addf6ab46e2767774bd2144c893c15746d6f861dc07d/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f406a626f6c6c613336382f32" alt="Recent Article 2" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/2" style="max-width: 100%;"></a></p>
 
 
