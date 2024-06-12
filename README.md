@@ -1,6 +1,12 @@
 <h1>Mei Chan</h1>
 <h2>Data Analyst</h2>
 <!-- <h2>👨‍💻 Projects:</h2> -->
+
+<!-- Python in Jupyter Notebook -->
+<h3> Python used in Jupyter Notebook to clean data and create a "Calculated Column" and a "Measure" </h3>
+
+<p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/03d25788-1545-4077-912a-38eeb53a1352" alt="Recent Article 0" style="max-width: 100%;"></a>
+</p>
   
 <!-- Power BI dashboard -->
 <h3> Power BI dashboard of Domino's Pizza sales </h3>
@@ -8,12 +14,6 @@
 (Simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)
 
 <p dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNjM4NzRlY2YtMjJiNy00Nzk3LWJmOGItZGEzYjA4ODMxZWRkIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9" rel="nofollow"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/d52efa7c-696b-443a-b729-b9137fc60464" alt="Recent Article 0" style="max-width: 100%;"></a>
-</p>
-
-<!-- Python in Jupyter Notebook -->
-<h3> Python used in Jupyter Notebook to clean data and create a "Calculated Column" and a "Measure" </h3>
-
-<p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/d52efa7c-696b-443a-b729-b9137fc60464" alt="Recent Article 0" style="max-width: 100%;"></a>
 </p>
 
 <br>
