@@ -3,10 +3,7 @@
 <!-- <h2>👨‍💻 Projects:</h2> -->
 
 <p dir="auto">Other project</p>
-</li>
-</ul>
-</li>
-</ul>
+
 <!-- Python in Jupyter Notebook -->
 <p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/1280c9d1-a64f-40a7-ab38-fa918d05c049" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
 
