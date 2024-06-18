@@ -32,11 +32,11 @@
 <h2>Other project</h2>
 
 <!-- Python in Jupyter Notebook -->
-<p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/1280c9d1-a64f-40a7-ab38-fa918d05c049" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/54985620-e4bc-433e-b386-54f0f2f02941" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
 
-
+<!-- J Bolla's portfolio 
 <p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" rel="nofollow"><img src="https://camo.githubusercontent.com/11e9a4e13ba4d4cf0fe8addf6ab46e2767774bd2144c893c15746d6f861dc07d/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f406a626f6c6c613336382f32" alt="Recent Article 2" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/2" style="max-width: 100%;"></a></p>
-
+-->
 
 <h3> 🤳 Connect with me:</h3>
 
