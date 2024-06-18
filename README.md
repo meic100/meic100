@@ -38,7 +38,7 @@
 <p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" rel="nofollow"><img src="https://camo.githubusercontent.com/11e9a4e13ba4d4cf0fe8addf6ab46e2767774bd2144c893c15746d6f861dc07d/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f406a626f6c6c613336382f32" alt="Recent Article 2" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/2" style="max-width: 100%;"></a></p>
 -->
 
-<h3> 🤳 Connect with me:</h3>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MeiChan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
