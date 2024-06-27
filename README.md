@@ -11,25 +11,10 @@
 </p>
 
 <br>
-<!-- DAX used in Power BI dashboard -->
-<h3> Sample of DAX used to create the dashboard </h3>
-<p dir="auto"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/491cd0ab-830b-4934-b2a3-89f4f5dc0fe7" style="max-width: 50%;">
-</p>
 
-<br>
+<h2>Other projects</h2>
 
-<!-- Downloadable files -->
-<h3> Download files </h3>
 
-<!-- .pbix file to produce Power BI dashboard stored in repository meic100/Dominos-Pizza -->
-[.pbix of dashboard ](https://github.com/meic100/Dominos-Pizza/blob/600c83d81b4e3e6eb68449039cf6f0dbb4c6a7fe/Domino's%20Pizza%20sales.pbix)
-<br>
-<!-- .pdf file of Power BI dashboard stored in repository meic100/Dominos-Pizza -->
-[.pdf of dashboard](https://github.com/meic100/Dominos-Pizza/blob/600c83d81b4e3e6eb68449039cf6f0dbb4c6a7fe/Domino's%20Pizza%20sales.pdf)
-
-<br>
-
-<h2>Other project</h2>
 
 <!-- Python in Jupyter Notebook -->
 <p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/54985620-e4bc-433e-b386-54f0f2f02941" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
