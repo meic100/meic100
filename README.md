@@ -2,12 +2,12 @@
 <h2>Data Analyst</h2>
 <!-- <h2>👨‍💻 Projects:</h2> -->
 
-<!-- Power BI dashboard -->
-<h3> Power BI dashboard of Domino's Pizza sales </h3>
+<!-- ONS analysis of "Travel time to employment centre by public transport"  -->
+<h3> ONS analysis of "Travel time to employment centre by public transport" </h3>
 
-(Simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)
+(Data from <a href="https://explore-local-statistics.beta.ons.gov.uk/areas/E12000009-south-west/indicators#connectivity">ONS Local indicators for the South West</a>)
 
-<p dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNjM4NzRlY2YtMjJiNy00Nzk3LWJmOGItZGEzYjA4ODMxZWRkIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9" rel="nofollow"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/d52efa7c-696b-443a-b729-b9137fc60464" alt="Recent Article 0" style="max-width: 100%;"></a>
+<p dir="auto"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/491cd0ab-830b-4934-b2a3-89f4f5dc0fe7" style="max-width: 50%;">
 </p>
 
 <br>
