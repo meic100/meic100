@@ -2,10 +2,10 @@
 <h2>Data Analyst</h2>
 <!-- <h2>👨‍💻 Projects:</h2> -->
 
-<!-- ONS analysis of "Travel time to employment centre by public transport"  -->
-<h3> ONS analysis of "Travel time to employment centre by public transport" </h3>
+<!-- My question on ONS analysis of "Travel time to employment centre by public transport"  -->
+<h3> My question on ONS analysis of "Travel time to employment centre by public transport" </h3>
 
-(Data from <a href="https://explore-local-statistics.beta.ons.gov.uk/areas/E12000009-south-west/indicators#connectivity">ONS Local indicators for the South West</a>)
+(Graph from <a href="https://explore-local-statistics.beta.ons.gov.uk/areas/E12000009-south-west/indicators#connectivity">ONS Local indicators for the South West</a>)
 
 <p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/31633adf-95f3-4e68-b160-d379944d9556" style="max-width: 50%;">
 </p>
