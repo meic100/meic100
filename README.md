@@ -7,7 +7,7 @@
 
 (Data from <a href="https://explore-local-statistics.beta.ons.gov.uk/areas/E12000009-south-west/indicators#connectivity">ONS Local indicators for the South West</a>)
 
-<p dir="auto"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/491cd0ab-830b-4934-b2a3-89f4f5dc0fe7" style="max-width: 50%;">
+<p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/31633adf-95f3-4e68-b160-d379944d9556" style="max-width: 50%;">
 </p>
 
 <br>
