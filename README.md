@@ -22,6 +22,8 @@
 <p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/8c1410dd-ad2f-4c35-b05f-e352af9baf7f" style="max-width: 100%;">
 </p>
 
+<br>
+
 <h2>Other projects</h2>
 <!-- Domino's Pizza - Spotlight on Sales in Nigeria for 8.30-9.30am for 2 weeks in December 2015 -->
 <!-- Power BI dashboard of Domino's Pizza sales -->
