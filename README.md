@@ -17,7 +17,7 @@
 <!-- My question on Labour Force Survey excluding Communal Housing -->
 <h3> My question on Labour Force Survey excluding Communal Housing </h3>
 
-(Source from <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyperformanceandqualitymonitoringreportoctobertodecember2023">Labour Force Survey performance and quality monitoring report: October to December 2023</a>)
+(Source from <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyperformanceandqualitymonitoringreportoctobertodecember2023#summary-of-quality">Labour Force Survey performance and quality monitoring report: October to December 2023</a>)
 
 <p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/8c1410dd-ad2f-4c35-b05f-e352af9baf7f" style="max-width: 100%;">
 </p>
